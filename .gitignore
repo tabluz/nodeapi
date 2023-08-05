@@ -1,0 +1,13 @@
+migrations
+package-lock.json
+.env
+.vscode
+.fleet
+.idea
+*.db
+prisma/dev.db
+prisma/dev.db-journal
+node_modules
+dist
+.db
+migrations/
